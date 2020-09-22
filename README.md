@@ -6,14 +6,14 @@
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /> 
   <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" /> 
   <img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="images/hooks.png" style="max-height:28px;"/>
-  <img src="images/rtl.png" style="max-height:28px;"/>
-  <img src="images/jest.png" style="max-height:28px;"/> 
+  <img src="images/hooks.png" height="28px" />
+  <img src="images/rtl.png" height="28px"/>
+  <img src="images/jest.png" height="28px"/> 
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="images/mongo.png" style="max-height:28px;" />
-  <img src="images/sql.png" style="max-height:28px;" />
+  <img src="images/mongo.png" height="28px" />
+  <img src="images/sql.png" height="28px" />
   
 </p>
 <p> 🚀 I’m currently studying at <a
