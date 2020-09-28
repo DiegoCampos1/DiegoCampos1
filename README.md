@@ -1,6 +1,6 @@
 <h3>Hi, I'm Diego! 🤘🏽</h3>
 <p> 🌍 Global citizen living in Brazil!</p>
-<p> 🏀 Basketball in my spare time...</p>
+<p> 🏀 I Like Playing Basketball in my spare time...</p>
 <p> 👩🏽‍💻 Software Developer:</p>
 <p>
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /> 
@@ -21,6 +21,10 @@
     alt="Trybe"
   >Trybe
   </a>  to become a Full-Stack Developer by March 2021!</p>
+
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=diegocampos1&count_private=true&show_icons=true&theme=dark&icon_color=268bd2&title_color=268bd2" alt="Diego Campos" width="400"/>
+</p>
 
 <h4>Find me</h4>
 
