@@ -19,11 +19,7 @@
   
   
 </p>
-<p> 🚀 I’m currently studying at <a
-    href="https://www.betrybe.com/" 
-    alt="Trybe"
-  >Trybe
-  </a> Full-Stack</p>
+<p> 🚀 I’m Full-Stack developer</p>
 
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=diegocampos1&count_private=true&show_icons=true&theme=dark&icon_color=268bd2&title_color=268bd2" alt="Diego Campos" width="400"/>
