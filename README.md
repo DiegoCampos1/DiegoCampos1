@@ -3,7 +3,8 @@
 <p> 🏀 I Like Playing Basketball in my spare time...</p>
 <p> 👩🏽‍💻 Software Developer:</p>
 <p>
-  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /> 
+  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://i.pinimg.com/originals/c3/8e/e8/c38ee8475ee7f3680f706c56c3a1194c.png" height="28px" />
   <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" /> 
   <img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white" />
   <img src="images/hooks.png" height="28px" />
@@ -14,13 +15,15 @@
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="images/mongo.png" height="28px" />
   <img src="images/sql.png" height="28px" />
+
+  
   
 </p>
 <p> 🚀 I’m currently studying at <a
     href="https://www.betrybe.com/" 
     alt="Trybe"
   >Trybe
-  </a>  to become a Full-Stack Developer by March 2021!</p>
+  </a> Full-Stack</p>
 
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=diegocampos1&count_private=true&show_icons=true&theme=dark&icon_color=268bd2&title_color=268bd2" alt="Diego Campos" width="400"/>
