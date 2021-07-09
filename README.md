@@ -15,9 +15,9 @@
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="images/mongo.png" height="28px" />
   <img src="images/sql.png" height="28px" />
-
-  
-  
+  <img src="https://www.cypress.io/static/cypress-io-logo-social-share-8fb8a1db3cdc0b289fad927694ecb415.png" height="28px" />
+  <img src="https://miro.medium.com/max/1780/1*POcSb9jzwC8iNDEGQ0xhOQ.png" height="28px" />
+ 
 </p>
 
 <p>
